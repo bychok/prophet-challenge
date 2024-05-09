@@ -34,7 +34,7 @@ We employ Facebook's Prophet forecasting model, which is robust to missing data 
 
 ### Forecasting and Predictions
 
-# The forecasting model predicted a slight decline in search trends immediately following a recent peak, likely indicating a transient correction after a surge. The predictions also included uncertainty intervals which widened over time, reflecting growing unpredictability in long-term forecasts.
+The forecasting model predicted a slight decline in search trends immediately following a recent peak, likely indicating a transient correction after a surge. The predictions also included uncertainty intervals which widened over time, reflecting growing unpredictability in long-term forecasts.
 
 ### Concluding Thoughts
 
